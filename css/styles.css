@@ -1,0 +1,48 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.container {
+    max-width: 375px;
+    margin-left: auto;
+    margin-left: auto;
+
+}
+.dayere {
+    background-color: #3EB09B;
+    width: 156px;
+height: 156px;
+top: 72px;
+border-radius: 100%;
+
+}
+.img80 {
+left: 21.2%;
+    top: 19.25%;
+}
+
+.hh {
+    margin-top: 84px;
+    margin-bottom: 0.5rem;
+    color: #25396F;
+}
+.hhh {
+    color: 
+    #25396F;
+    font-size: small;
+}
+.moj {
+    width: 351px;
+    height: 309.5px;
+}
+.btm {
+    background-color:  #89D2C4;
+    width: 318px;
+    height: 48px;
+    left: 16px;
+    top: 222px;
+    border-radius:30px;
+    color:#F2F6FC;
+    ;
+}
