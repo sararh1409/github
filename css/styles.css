@@ -1,12 +1,14 @@
-body {
+html {
     font-family: 'Noto Sans', sans-serif;
 font-family: 'Roboto', sans-serif;
 
 }
+
 .container {
     max-width: 375px;
     margin-left: auto;
     margin-left: auto;
+    background-color: #fafbfc;
 
 }
 .dayere {
@@ -45,4 +47,33 @@ left: 21.2%;
     border-radius:30px;
     color:#F2F6FC;
     ;
+}
+
+
+
+.img81 {
+left: 43.06%;
+right: -15.56%;
+top: -7.03%;
+bottom: 63.91%;
+}
+.helo {
+    position: absolute;
+width: 30%;
+height: 90px;
+left: 16px;
+top: 104px;
+color: #3EB09B;;
+}
+.mtn1 {
+margin-top: 70%;
+color: #3EB09B;
+
+}
+
+.btm1 {
+    border-radius: 3rem;
+    background-color: #00866A;
+    color: #F2F6FC;
+    padding: 12px 66px;
 }
