@@ -91,6 +91,7 @@ color: #3EB09B;
 .header1 {
     background-color: #00866A;
     height: 2rem;
+    background-image: url(./../image/Vector\ \(5\).png), url(./../image/Vector\ \(14\).png);
 }
 .hm {
     margin: 0 1.2%;
@@ -158,4 +159,22 @@ color: #3EB09B;
     width: 100%;
     border-radius: 30px;
     height: 3rem;
+}.baby {
+    border: 1px solid #EE6093 ;
+} 
+.btm6 {
+    width: 33%;
+    height: 2.5rem;
+    color: #F2F6FC;
+    ;
+}
+
+.sorati1 {
+    background-color: #EE6093;
+    background-image: url(./../image/Vector\ \(8\).png), url(./../image/Vector\ \(9\).png);
+
+}
+.radif {
+    margin-top: -10px; 
+    border-bottom-width: 100px;
 }
