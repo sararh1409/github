@@ -178,3 +178,21 @@ color: #3EB09B;
     margin-top: -10px; 
     border-bottom-width: 100px;
 }
+.marjinr {
+    margin-right: -5px;
+    background-color: #FFFFFF;
+    font-weight: 600;
+}
+
+.firoze {
+    background-color: #D1EFEF;
+    color: #1AB0B0;
+    font-weight: 600;
+    padding: .6rem 1.1rem;
+}
+.flash {
+    margin-left: -6px;
+}
+.firozi1 {
+    background-color: #1AB0B0;
+    background-image: url(./../image/Vector\ \(8\).png), url(./../image/Vector\ \(9\).png);
