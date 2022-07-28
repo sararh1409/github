@@ -196,3 +196,218 @@ color: #3EB09B;
 .firozi1 {
     background-color: #1AB0B0;
     background-image: url(./../image/Vector\ \(8\).png), url(./../image/Vector\ \(9\).png);
+}
+
+.nafti {
+    color: #398AA5;
+}
+.fw {
+    font-weight: 600;
+}
+.input1 {
+    border: 1px solid #398AA5;
+    width: 19.9rem;
+    height: 2.6rem;
+}
+.serch {
+    background-color: #398AA5;
+    margin: 20px -37px;
+}
+.nothing {
+    width: 20%;
+    border: 1px solid #ACACAC;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #ACACAC;
+}
+.fatisue {
+    width: 40%;
+    border: 1px solid #ACACAC;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #ACACAC;
+}
+.dizziness {
+    width: 25%;
+    height: 1.5rem;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #398AA5;
+    background-color: #B0D0DB;
+}
+.tik {
+    background-color: #398AA5;
+    padding: 1px 2px;
+    margin: 2px 0;
+}
+.morning {
+    width: 48%;
+    height: 1.5rem;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #398AA5;
+    background-color: #B0D0DB;
+}
+.acen {
+    width: 15%;
+    border: 1px solid #ACACAC;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #ACACAC;
+}
+.dizziness1 {
+    width: 25%;
+    height: 1.5rem;
+    border: 1px solid  #61A1B7;
+    font-size: .7rem;
+    padding: 2px 0;
+    color:  #61A1B7;
+}
+.morning1 {
+    width: 48%;
+    height: 1.5rem;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #398AA5;
+    border: 1px solid  #61A1B7;
+}
+.goli {
+    color: #E18AB6;
+}
+.serch1 {
+    background-color: #E7A1C5;
+    margin: 20px -37px;
+}
+.input2 {
+    border: 1px solid #E7A1C5;
+    width: 19.9rem;
+    height: 2.6rem;
+}
+.Benadryl {
+    width: 25%;
+    height: 1.5rem;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #E18AB6;
+    background-color: #F3D0E2;
+}
+.tik1 {
+    background-color: #E18AB6;
+    padding: 1px 2px;
+    margin: 2px 0;
+}
+.Endometrin {
+    width: 26%;
+    border: 1px solid #ACACAC;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #ACACAC;
+}
+.dizziness2 {
+    width: 25%;
+    height: 1.5rem;
+    border: 1px solid #E7A1C5;
+    font-size: .7rem;
+    padding: 2px 0;
+    color:  #E7A1C5;
+}
+.nafti1 {
+    color: #45A4A7;
+}
+.nafti2 {
+    background-color: #45A4A7;
+}
+.input3 {
+    border: 1px solid #45A4A7;
+    width: 19.9rem;
+    height: 2.6rem;
+}
+.serch2 {
+    background-color: #45A4A7;
+    margin: 20px -37px;
+}
+.calm {
+    width: 20%;
+    height: 1.5rem;
+    background-color: #B5DBDC;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #45A4A7;
+}
+.moody {
+    width: 23%;
+    height: 1.5rem;
+    background-color: #B5DBDC;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #45A4A7;
+}
+.moody1 {
+    width: 23%;
+    height: 1.5rem;
+    border: 1px solid #6AB6B9;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #6AB6B9;
+}
+.calm1 {
+    width: 20%;
+    height: 1.5rem;
+    border: 1px solid #6AB6B9;
+    font-size: .7rem;
+    padding: 2px 0;
+    color: #6AB6B9;
+}
+.sbz {
+    color: #00866A;
+}
+.input4 {
+    border: 1px solid #00866A;
+    width: 19.9rem;
+    height: 2.6rem;
+}
+.tqvim {
+    background-color: #00866A;
+    margin: 20px -37px;
+}
+.sleep {
+    color: #1AB0B0;
+}
+.input5 {
+    border: 1px solid #1AB0B0;
+    width: 19.9rem;
+    height: 2.6rem;
+}
+.tqvim1 {
+    background-color: 
+    #1AB0B0;
+    margin: 20px -37px;
+}
+
+.Temprature {
+
+color: #7A0B44;
+}
+.input6 {
+    border: 1px solid #7A0B44;
+    width: 19.9rem;
+    height: 2.6rem;
+}
+.deg {
+    background-color: #7A0B44;
+    margin: 20px -37px;
+    padding: 9px;
+}
+.Weight {
+   color: #7B97A5; 
+}
+.input7 {
+    border: 1px solid #7B97A5;
+    width: 19.9rem;
+    height: 2.6rem;
+}
+.kg {
+    background-color: #7B97A5;
+    margin: 20px -37px; 
+    padding: 7px;
+}
