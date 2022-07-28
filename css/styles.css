@@ -411,3 +411,12 @@ color: #7A0B44;
     margin: 20px -37px; 
     padding: 7px;
 }
+.cancel {
+    border: 1px solid #00866A;
+    padding: 7px 1.6rem;
+    color: #00866A;
+}
+.ok {
+background-color: #00866A;
+padding: 7px 1.6rem ;
+}
