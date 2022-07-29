@@ -420,3 +420,16 @@ color: #7A0B44;
 background-color: #00866A;
 padding: 7px 1.6rem ;
 }
+.profile {
+    background-color: #3EB09B;
+}
+
+.aks {
+    width: 5rem;
+    height: 5rem;
+    background-image: url(./../image/Ellipse\ 12.png) ;
+}
+.naranj {
+color: 
+#FF0000;
+}
